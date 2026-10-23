@@ -262,3 +262,7 @@ MVP dinyatakan **lolos** bila seluruh terpenuhi:
 ---
 
 *Dokumen ini bersifat hidup — pembaruan dicatat pada tabel versi dan disetujui ulang oleh stakeholder sebelum masuk sprint.*
+
+---
+
+**Tautan:** [Portfolio live](https://omingpradnya5-maker.github.io/portfolio/) | [Profil GitHub](https://github.com/omingpradnya5-maker) | [Repo dokumen ini](https://github.com/omingpradnya5-maker/prd-timesheet-billing)

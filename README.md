@@ -47,3 +47,5 @@
 
 - **Aplikasi (rencana):** https://github.com/Central-Saga/sistem-timesheet-billing
 - **Portfolio pengembang:** https://omingpradnya5-maker.github.io/portfolio/
+- **Sumber portfolio:** https://github.com/omingpradnya5-maker/portfolio
+- **Profil GitHub & README:** https://github.com/omingpradnya5-maker
